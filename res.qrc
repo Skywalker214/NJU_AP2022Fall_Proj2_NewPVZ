@@ -1,0 +1,46 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/Buff/Aoe.gif</file>
+        <file>images/Buff/Aoe.png</file>
+        <file>images/Buff/Crazy.gif</file>
+        <file>images/Buff/Crazy.png</file>
+        <file>images/Buff/Fire.gif</file>
+        <file>images/Buff/Fire.png</file>
+        <file>images/Buff/flash.png</file>
+        <file>images/Buff/haste.png</file>
+        <file>images/Buff/Ice.gif</file>
+        <file>images/Buff/Ice.png</file>
+        <file>images/Interface/background.jpg</file>
+        <file>images/Interface/brain.png</file>
+        <file>images/Interface/BuffCleaner.png</file>
+        <file>images/Interface/Button.png</file>
+        <file>images/Interface/button1.png</file>
+        <file>images/Interface/button2.png</file>
+        <file>images/Interface/Card.png</file>
+        <file>images/Interface/grass0.jpg</file>
+        <file>images/Interface/grass1.jpg</file>
+        <file>images/Interface/HPBar0.png</file>
+        <file>images/Interface/HPBar1.png</file>
+        <file>images/Interface/main.jpg</file>
+        <file>images/Interface/Shop.png</file>
+        <file>images/Interface/Shovel.png</file>
+        <file>images/Interface/ShovelBank.png</file>
+        <file>images/Interface/Tombstones.png</file>
+        <file>images/Plants/BonkChoy/BonkChoy.gif</file>
+        <file>images/Plants/BonkChoy/BonkChoy.png</file>
+        <file>images/Plants/Pea/FirePea.gif</file>
+        <file>images/Plants/Pea/IcePea.gif</file>
+        <file>images/Plants/Pea/Pea.gif</file>
+        <file>images/Plants/PeaShooter/PeaShooter.gif</file>
+        <file>images/Plants/PeaShooter/PeaShooter.png</file>
+        <file>images/Zombies/BasicZombie/BoomDie.gif</file>
+        <file>images/Zombies/BasicZombie/Zombie.gif</file>
+        <file>images/Zombies/BasicZombie/Zombie2.gif</file>
+        <file>images/Zombies/BasicZombie/Zombie3.gif</file>
+        <file>images/Zombies/BasicZombie/ZombieAttack.gif</file>
+        <file>images/Zombies/BasicZombie/ZombieDie.gif</file>
+        <file>images/Zombies/BasicZombie/ZombieHead.gif</file>
+        <file>Grazy Dave.wav</file>
+        <file>images/Interface/Sun.gif</file>
+    </qresource>
+</RCC>
